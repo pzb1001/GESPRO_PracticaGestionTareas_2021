@@ -5,8 +5,8 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
-Marcos Ubierna Fernandez
+Marcos Ubierna Fernandez https://github.com/muf1002
 
-Pablo Zarzosa Buitrago
+Pablo Zarzosa Buitrago https://github.com/pzb1001
 
 Iñigo Sanz Delgado
