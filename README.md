@@ -4,9 +4,8 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Para completar la primera práctica obligatoria sobre gestión de tareas en metodología ágil, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
 
 **Incluid debajo el nombre de los miembros del grupo:**
+- [Marcos Ubierna Fernández](https://github.com/muf1002)
 
-Marcos Ubierna Fernandez https://github.com/muf1002
+- [Pablo Zarzosa Buitrago](https://github.com/pzb1001)
 
-Pablo Zarzosa Buitrago https://github.com/pzb1001
-
-Iñigo Sanz Delgado
+- [Iñigo Sanz Delgado](https://github.com/isd1001)
